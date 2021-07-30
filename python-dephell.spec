@@ -27,6 +27,7 @@ Manage venvs, build package, bump version.
 %py_install
 
 %files
+%{_bindir}/dephell
 %{python_sitelib}/dephell-%{version}-py*.*.egg-info/PKG-INFO
 %{python_sitelib}/dephell-%{version}-py*.*.egg-info
 %{python_sitelib}/dephell/
