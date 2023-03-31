@@ -2,7 +2,7 @@
 
 Name:           python-%{srcname}
 Version:        0.8.3
-Release:        1
+Release:        2
 Summary:        Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. 
 Group:          Development/Python
 License:        MIT
